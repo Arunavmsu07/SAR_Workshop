@@ -44,4 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with tools like Google Earth Engine, earthaccess, and geemap.
 - Inspired by open-source remote sensing workflows.
 
-For questions, contact [your email or GitHub handle].
+For questions, contact [nandaaru@msu.edu].
