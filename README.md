@@ -1,7 +1,7 @@
 # SAR Workshop: Processing SMAP/Sentinel-1 and Sentinel-1 Data in Google Colab
 
 [<image-card alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg" ></image-card>](https://colab.research.google.com/github/YOUR_USERNAME/SAR_Workshop/blob/main/workshop_final_version.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Arunavmsu07/SAR_Workshop/blob/main/Workshop_final_version.ipynb)
 ## Overview
 This repository contains materials for a hands-on workshop on processing Synthetic Aperture Radar (SAR) data from SMAP and Sentinel-1 satellites. The main notebook (`workshop_final_version.ipynb`) covers data acquisition, mosaicing, agricultural masking, visualization, and time series analysis for regions like Morocco.
 
