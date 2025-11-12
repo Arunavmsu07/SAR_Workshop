@@ -6,7 +6,7 @@
 This repository contains materials for a hands-on workshop on processing Synthetic Aperture Radar (SAR) data from SMAP/S1 and Sentinel-1 satellites. The main notebook (`workshop_final_version.ipynb`) covers data acquisition, mosaicing, agricultural masking, visualization, and time series analysis for regions like Morocco.
 
 Key topics:
-- Fetching SMAP and Sentinel-1 RTC data via NASA Earthdata and OPERA.
+- Fetching SMAP/S1 and Sentinel-1 RTC data via NASA Earthdata and OPERA.
 - Resampling, mosaicing, and computing Radar Vegetation Index (RVI).
 - Interactive mapping with geemap for ROI selection.
 - Time series extraction and plotting with Plotly.
